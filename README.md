@@ -1,4 +1,5 @@
 # OTP-input-component
-<h2>OTP Input Component Preview</h2>
-![image](https://github.com/user-attachments/assets/adf127f3-6e0b-4d7c-962a-2bd35d5563f7)
+![image](https://github.com/user-attachments/assets/8a893dee-e467-42d7-8e1a-e6d0018a96bc)
+
+
 
